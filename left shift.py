@@ -1,0 +1,12 @@
+#left shift
+a=int(input())
+print('left shift values')
+print('left shift 1',a<<1)
+print('left shift 2',a<<2)
+print('left shift 3',a<<3)
+print('left shift 4',a<<4)
+print('left shift 5',a<<5)
+print('left shift 6',a<<6)
+print('left shift 7',a<<7)
+print('left shift 8',a<<8)
+print('left shift 9',a<<9)
